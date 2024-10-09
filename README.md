@@ -50,10 +50,6 @@ We welcome contributions from the community! If you have suggestions or improvem
 4. **Push** your work back up to your fork.
 5. Submit a **Pull Request** so that we can review your changes.
 
-## License
-
-DailyLifeManager is freely distributed under the MIT License. See [LICENSE](LICENSE.md) for more details.
-
 ## Support
 
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
